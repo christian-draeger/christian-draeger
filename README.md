@@ -1,4 +1,4 @@
-### Hi there, I'm Chris and would call myself a coder by heart 👋👨‍💻
+### Hi there, I'm Chris and a coder by heart 👋👨‍💻
 
 **🔭 Besides being a loving father, passionate gardener and woodworker, I am working on [skrape{it}](https://docs.skrape.it/docs/) in my free time.**
 
