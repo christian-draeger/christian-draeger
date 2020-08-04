@@ -32,7 +32,7 @@
       <ul>
         <li>Testautomation
           <ul>
-            <li>deep knowledge regarding testing frameworks and libraries on the JVM and the different levels of testing</li>
+            <li>deep knowledge regarding testing frameworks and libraries in all levels of testing on the JVM</li>
             <li>Automated UI tests with Selenium/Appium/Cypress/Protractor</li>
           </ul>
         </li>
