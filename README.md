@@ -4,7 +4,7 @@
 
 **🔑 I am an Open Source enthusiast and interested in ethical topics around the Web.**
 
-**📫 How to reach me: chris@draeger.tech**
+**📫 How to reach me: chris@draeger.codes**
 
 ### My activities this year
 ![stats](https://github-readme-stats.vercel.app/api?username=christian-draeger&show_icons=true)
