@@ -17,7 +17,7 @@
       <ul>
         <li>Web Technologies
           <ul>
-            <li>Feeling at home on the JVM (preferring Kotlin) as well as creating SPAs with React or Vue</li>
+            <li>Feeling at home on the JVM (preferring Kotlin) as well as creating SPAs with React</li>
             <li>Animations in the Web either with CSS or JS</li>
             <li>create a snappy, easy to use and modern UX</li>
           </ul>
