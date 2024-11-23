@@ -1,0 +1,78 @@
+/* Reset and basic styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background-color: #007acc;
+    color: white;
+    padding: 10px 20px;
+}
+
+header nav h1 {
+    display: inline;
+}
+
+header ul {
+    list-style: none;
+    display: inline;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+header ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+#hero {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f4f4f4;
+}
+
+#hero h2 {
+    font-size: 2.5em;
+}
+
+#hero button {
+    padding: 10px 20px;
+    background-color: #007acc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#hero button:hover {
+    background-color: #005b99;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+section#projects .project {
+    background-color: #e9ecef;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: #007acc;
+    color: white;
+    padding: 10px 0;
+    margin-top: 20px;
+}
